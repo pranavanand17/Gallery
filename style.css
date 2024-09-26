@@ -1,0 +1,29 @@
+.double-border{
+	border-top: 4px double black;
+	border-bottom: 4px double black;
+	padding: 10px 0;
+	text-align: center;
+
+}
+
+.margin {
+	margin: 0;
+	border-bottom: 1px solid black;
+	padding: 10px;
+	text-align: center;
+}
+
+.border{
+	display: inline-block;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	padding: 10px;
+	text-align: center;
+}
+
+.info {
+	display: inline-block;
+	border: 4px double black;
+        padding: 10px 0;
+        text-align: center;
+}
