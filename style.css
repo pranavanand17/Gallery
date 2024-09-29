@@ -28,3 +28,12 @@
         padding: 10px 0;
         text-align: center;
 }
+.footer {
+    background-color: #000; /* Fully black background */
+    color: #fff; /* White text color */
+    text-align: center; /* Center the text */
+    padding: 20px 0; /* Add some padding for spacing */
+    margin-top: auto; /* Push the footer to the bottom of the page */
+    width: 100%; /* Full width */
+    font-family: Arial, sans-serif; /* Clean font */
+}
