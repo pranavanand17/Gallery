@@ -12,6 +12,7 @@
 	border-bottom: 1px solid black;
 	padding: 10px;
 	text-align: center;
+	color: black;
 }
 
 .border{
@@ -27,6 +28,7 @@
 	border: 4px double black;
         padding: 10px 0;
         text-align: center;
+	color: black;
 }
 
 .img {
@@ -75,4 +77,71 @@
 	}
 } 
 
+
+
+
+body[theme="dark"] .double-border{
+        border-top: 4px double white;
+        border-bottom: 4px double white;
+        padding: 10px 0;
+        text-align: center;
+
+}
+
+body[theme="dark"] .margin {
+        margin: 0;
+        border-bottom: 1px solid white;
+        padding: 10px;
+        text-align: center;
+}
+
+body[theme="dark"] .border{
+        display: inline-block;
+        border-right: 1px solid white;
+        border-left: 1px solid white;
+        padding: 10px;
+        text-align: center;
+}
+body[theme="dark"] .info {
+        display: inline-block;
+        border: 4px double white;
+        padding: 10px 0;
+        text-align: center;
+}
+
+.cool {
+	color: black;
+} 
+
+.dool {
+	color: black;
+	padding: 5px;
+}
+
+.angel {
+	font-style: italic; 
+	margin: 0;
+	 color: black;
+
+}
+body[theme="dark"]{
+	background-color: #333333;
+}
+
+body[theme="dark"] .cool{
+	color: white;
+
+}
+
+body[theme="dark"] .dool {
+	color: white;
+	padding: 5px;
+
+}
+body[theme="dark"] .angel {
+        color: white;
+	 font-style: italic;
+        margin: 0;
+	
+}
 
