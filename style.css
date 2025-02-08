@@ -1,3 +1,9 @@
+.bolumn {
+        display: inline-block; /* Makes columns appear side by 
+        padding: 10px; /* Just for visibility */
+        text-align: center;
+        vertical-align: top; /* Aligns content properly */
+  }
 
 .double-border{
 	border-top: 4px double black;
@@ -5,6 +11,11 @@
 	padding: 10px 0;
 	text-align: center;
 
+}
+
+.psyc {
+	background: url('pyschedelic.gif') no-repeat center center fixed;
+        background-size: cover;
 }
 
 .margin {
