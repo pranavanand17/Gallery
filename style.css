@@ -1,3 +1,4 @@
+
 .bolumn {
         display: inline-block; /* Makes columns appear side by 
         padding: 10px; /* Just for visibility */
@@ -60,6 +61,9 @@
 	padding: 10px;
 }
 
+.ohno {
+	 background-color: white;
+}
 .footer {
     background-color: #000; /* Fully black background */
     color: #fff; /* White text color */
